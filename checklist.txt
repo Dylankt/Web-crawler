@@ -1,0 +1,12 @@
+READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS 
+READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS 
+READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS 
+READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS READ COMMMENTS 
+defrag URLS (done)
+avoid infinite traps (not websites that link to each other) (near duplicate detection) (blacklist these) (done)
+parse and save necessary data (done)
+AVOID LARGE FILES
+AVOID LARGE FILES WITH LOW INFO VALUE (check if length is 10000+ and if length of text is less than 10% of website)
+log each case where something isnt processed (saved, extracted) (helps debug)(done? i think)
+implement extract new links using beautiful soup(loop up on internet) (done)
+implement exact and near duplicate detection (extra credit) (implement not used)
